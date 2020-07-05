@@ -226,7 +226,7 @@ body {
         font-size: 10px;
     }
 
-    .main-nav-list .mobilesize {
+    .main-nav-list.active a {
         font-size: larger;
     }
 }
