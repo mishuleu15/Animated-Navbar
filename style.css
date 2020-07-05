@@ -216,7 +216,7 @@ body {
 
 /* Media query */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
     .masthead a {
         font-size: 7px;
         margin-left: auto;
